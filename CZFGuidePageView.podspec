@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "this Module for App init Guide Page. you deserved it."
 
-  s.homepage     = "https://github.com/MacleChen/CZFGuidePageView.git"
+  s.homepage     = "https://github.com/MacleChen/CZFGuidePageView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/MacleChen/CZFGuidePageView.git.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/MacleChen/CZFGuidePageView.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
